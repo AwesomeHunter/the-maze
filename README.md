@@ -7,7 +7,8 @@ In the maze, it is possible to find:
 - different types of blocks - walls, water, doors, etc.
 - enemies:
   - skeleton,
-  - thief.
+  - thief,
+  - snake.
 - items (in chests or carried by enemies):
   - keys,
   - torches,
