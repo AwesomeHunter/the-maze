@@ -1,22 +1,19 @@
 # [The maze](https://adampsz.github.io/the-maze)
 
-Gra polega na przejściu labiryntu.
-Podczas rozgrywki zbieramy różne przedmioty, które mogą umożliwić lub ułatwić dalszą wędrówkę. Na drodze stanąć mogą nam przeciwnicy, z którymi możemy podjąć walkę. Innym utrudnieniem jest ograniczona widoczność. Gra składa się z kilku poziomów.
+The game involves navigating a maze. During gameplay, we collect various items that may enable or facilitate further progress. Enemies may stand in our way, and we can engage them in combat. Another obstacle is limited visibility. The game consists of several levels.
 
-W labiryncie będzie można znaleźć:
+In the maze, it is possible to find:
 
-- różne rodzaje bloków - ściany, wodę, drzwi, ...
-- przeciwników:
-  - szkielet,
-  - złodziej,
-  - ...
-- przedmioty (w skrzyniach, u przeciwników):
-  - klucze,
-  - pochodnie,
-  - różne rodzaje zbroi i broni,
-  - lekarstwa,
-  - ...
+- different types of blocks - walls, water, doors, etc.
+- enemies:
+  - skeleton,
+  - thief.
+- items (in chests or carried by enemies):
+  - keys,
+  - torches,
+  - various types of armor and weapons,
+  - medicines.
 
-Gra została zrealizowana w TypeScripcie (z niewielką pomocą innych języków webowych).
+The game was developed in TypeScript (with minor assistance from other web technologies).
 
 <!-- Gra zachwyca piękną grafiką, niezwykle zajmującą i dynamiczną rozgrywką, pełnymi życia postaciami. --!>
